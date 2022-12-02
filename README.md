@@ -31,6 +31,8 @@ a long-range acoustic weapon.
 
 Requires [SoX](http://sox.sourceforge.net/).
 
+Original by winytan, brought back to life by Foxy6670
+
 © windytan (Oona Räisänen)
 
 ISC license
